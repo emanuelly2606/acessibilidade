@@ -46,7 +46,7 @@ section {
     position: absolute;
     right: 0;
     top: 18rem;
-    width: 4rem;
+    width: 45rem;
     height: auto;
 }
 
@@ -196,4 +196,8 @@ h2 {
 }
 .alto-contraste .fundo-galeria {
     background: none;
+}
+
+.nav-img{
+    width: 150px;
 }
