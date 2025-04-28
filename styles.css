@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #f1c7e1;
+    --laranja-claro: #8accf1;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #ffd700;
@@ -24,13 +24,13 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #66b3f3;
     font-weight: 600;
 }
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/tulipa255.png');
+    background-image: url('img/sabrina.png');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #b7eeff;
     border: none;
     font-weight: bold;
 }
